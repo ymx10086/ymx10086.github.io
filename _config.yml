@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mingxin Yang"
+title                    : "Way to Research"
 title_separator          : "-"
 name                     : &name "Mingxin Yang"
 description              : &description "Undergraduate from Huazhong University of Science and Technology"
-url                      : https://ymx10086.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ymx10086.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ymx10086/ymx10086.github.io"
 
@@ -22,27 +22,27 @@ repository               : "ymx10086/ymx10086.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mingxin Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "NLP; AI safety; Major in Computer Science and Technology"
+  location         : "1037 Luoyu Road, Hongshan District, Wuhan City, Hubei Province"
+  employer         : "Huazhong University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ymx@hust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : # "http://orcid.org/yourorcidurl"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ymx10086"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
