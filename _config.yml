@@ -25,8 +25,8 @@ author:
   name             : "Mingxin Yang"
   pronouns         : # example: "she/her"  
   bio              : "NLP; AI safety; Major in Computer Science and Technology"
-  location         : "1037 Luoyu Road, Hongshan District, Wuhan City, Hubei Province"
-  employer         : "Huazhong University of Science and Technology"
+  location         : "Wuhan, Hubei"
+  employer         : "HUST"
   uri              : # URL
   email            : "ymx@hust.edu.cn" 
 
@@ -43,7 +43,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "ymx10086"
-  kaggle           : # Username  
+  gitee            : "ymx10086"
+  kaggle           : "yangmingxin10086"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
