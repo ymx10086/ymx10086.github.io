@@ -199,7 +199,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  competition:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -233,10 +236,19 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # _competition
   - scope:
       path: ""
-      type: teaching
+      type: competition
     values:
       layout: single
       author_profile: true
