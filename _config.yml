@@ -21,7 +21,7 @@ repository               : "ymx10086/ymx10086.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ymx.png"
   name             : "Mingxin Yang"
   pronouns         : # example: "she/her"  
   bio              : "NLP; AI safety; Major in Computer Science and Technology"
