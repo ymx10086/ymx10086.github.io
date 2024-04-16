@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Modeling_and_Analysis_of_Spatial-Temporal_Relationship_and_Risk_Evolution_of_Emergencies_Based_on_Big_Data_from_Social_Media"
 collection: publications
 permalink: /publication/2022-11-25-Modeling_and_Analysis_of_Spatial-Temporal_Relationship_and_Risk_Evolution_of_Emergencies_Based_on_Big_Data_from_Social_Media
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'There are many kinds of emergencies in the real world, and there is a close connection between different events. '
 date: 2022-11-25
 venue: '2022 2nd International Signal Processing, Communications and Engineering Management Conference (ISPCEM)'
 paperurl: 'http://ymx10086.github.io/files/Modeling_and_Analysis_of_Spatial-Temporal_Relationship_and_Risk_Evolution_of_Emergencies_Based_on_Big_Data_from_Social_Media.pdf'

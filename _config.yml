@@ -202,13 +202,19 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  courses_and_projects:
+    output: true
+    permalink: /:collection/:path/
+  honors_and_awards:
+    output: true
+    permalink: /:collection/:path/
   competition:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  experience:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -245,6 +251,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _courses_and_projects
+  - scope:
+      path: ""
+      type: courses_and_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _honors_and_awards
+  - scope:
+      path: ""
+      type: honors_and_awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _competition
   - scope:
       path: ""
@@ -263,10 +287,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _experience
   - scope:
       path: ""
-      type: portfolio
+      type: experience
     values:
       layout: single
       author_profile: true

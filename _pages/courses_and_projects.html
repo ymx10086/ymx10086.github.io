@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Courses and Projects"
+permalink: /courses_and_projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.courses_and_projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
