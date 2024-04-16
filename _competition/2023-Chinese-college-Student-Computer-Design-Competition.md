@@ -1,7 +1,7 @@
 ---
 title: "Chinese College Student Computer Design Competition"
 collection: competition
-type: "Algorithms"
+type: "Algorithms & Big Data"
 permalink: /competition/2023-Chinese-college-Student-Computer-Design-Competition
 venue: "National Third Prize, Professional Top Competition(B)"
 excerpt: "<img src='/images/comp-1.png'>"
