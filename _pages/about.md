@@ -21,7 +21,7 @@ redirect_from:
 [//]: # ()
 
 
-**Hi 👋, I'm Lang (/læŋ/).**
+**Hi 👋, I'm Mingxin.**
 
 I am currently a first-year PhD student based in **Beijing**, currently affiliated with **Peking University**. I'm fortunate to be supervised by [Dr. Xinggong Zhang](https://www.wict.pku.edu.cn/NetVideo/).I received my bachelor's degree from **Huazhong University of Science and Technology (HUST)** that built a solid foundation in computer science and research, and have previously conducted research collaborations with researchers from the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)** and **Harbin Institute of Technology (Shenzhen)**.
 
@@ -71,25 +71,6 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=ia
 
 **Vuldetectbench: Evaluating the deep capability of vulnerability detection with large language models**  <img src="https://img.shields.io/badge/Preprint-gray" alt="Preprint">
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='files/stylo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Lang Gao**, Xuhui Li, Chenxi Wang, Mingzhe Li, Wei Liu, Zirui Song, Jinghui Zhang, Rui Yan, Preslav Nakov, and Xiuying Chen
-
-*"What if I say your AI detector can still have high AUC in random tokens? The first work on revealing the weak transferability of machine-generated text detectors in personalized contents, and its mechanistic interpretation."* 
-
-<table style="border: 1px solid #ddd; border-collapse: collapse; margin-top: 10px;">
-<tr>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://arxiv.org/abs/2510.12476">Paper</a></td>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/mbzuai-nlp/Personalized_MGT_Detect">Data & Code</a></td>
-</tr>
-</table>
-
-</div>
-</div>
-
-**Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs**  <img src="https://img.shields.io/badge/Preprint-gray" alt="Preprint">
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/PipeLineFinal_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,6 +87,25 @@ Yu Liu, Lang Gao, **Mingxin Yang**, Yu Xie, Ping Chen, Xiaojin Zhang, Wei Chen
 
 </div>
 </div>
+
+<!-- **Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs**  <img src="https://img.shields.io/badge/Preprint-gray" alt="Preprint">
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='files/PipeLineFinal_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Yu Liu, Lang Gao, **Mingxin Yang**, Yu Xie, Ping Chen, Xiaojin Zhang, Wei Chen
+
+*"A new benchmark, VulDetectBench, evaluates LLMs on program vulnerability detection and shows strong performance on coarse-grained tasks but poor capability in fine-grained vulnerability analysis."* 
+
+<table style="border: 1px solid #ddd; border-collapse: collapse; margin-top: 10px;">
+<tr>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://arxiv.org/abs/2406.07595">Paper</a></td>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/Sweetaroo/VulDetectBench">Code</a></td>
+</tr>
+</table>
+
+</div>
+</div> -->
 
 
 <!-- **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models**  <img src="https://img.shields.io/badge/ACL-2025-gray?labelColor=blue" alt="ACL 2025">
