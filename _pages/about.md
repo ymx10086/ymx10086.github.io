@@ -211,29 +211,28 @@ Wei Liu, Zhongyu Niu, **Lang Gao**, Zhiying Deng, Jun Wang, Haozhao Wang, and Ru
 
 ## 👨‍🔧 Applications
 
-<!-- **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine**  <img src="https://img.shields.io/badge/ICLR-2025-gray?labelColor=blue" alt="ICLR 2025">
+**Linger: Intelligent Resume Parsing System**  <img src="https://img.shields.io/badge/Applications-2025-gray?labelColor=blue" alt="Applications 2024">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/medtrinity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Yunfei Xie\*, Ce Zhou\*, **Lang Gao\***, Juncheng Wu*, Xianhang Li, Hong-Yu Zhou, Sheng Liu, Lei Xing, James Zou, Cihang Xie, and Yuyin Zhou 
-(\*: Joint first authors)
+Yifei Li, **Mingxin Yang**, Min Yang, Siyu Jiang
 
-*"A comprehensive, large-scale multimodal dataset for medical vision-language models."*
+*"Under the guidance of Professor He Kun, our team proposed an Intelligent Resume Analysis System that leverages natural language processing and machine learning—integrating resume text recognition, large language models, and job–candidate matching algorithms—to efficiently and accurately parse resumes and address real-world recruitment challenges."*
 
 <table style="border: 1px solid #ddd; border-collapse: collapse; margin-top: 10px;">
 <tr>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://iclr.cc/virtual/2025/poster/30141">Paper</a></td>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/HeartyHaven/DataProcessingSystem">Toolkit</a></td>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/UCSC-VLAA/MedTrinity-25M">Code <img src="https://img.shields.io/github/stars/UCSC-VLAA/MedTrinity-25M" alt="stars"></a></td>
+<!-- <td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://iclr.cc/virtual/2025/poster/30141">Paper</a></td> -->
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://www.cs.hust.edu.cn/info/1180/3284.htm">News</a></td>
+<!-- <td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/UCSC-VLAA/MedTrinity-25M">Code <img src="https://img.shields.io/github/stars/UCSC-VLAA/MedTrinity-25M" alt="stars"></a></td>
 <td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://huggingface.co/datasets/UCSC-VLAA/MedTrinity-25M">Dataset</a></td>
 <td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://yunfeixie233.github.io/MedTrinity-25M/">Website</a></td>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfjNvzyo2LRpAvLfGpj6XmNI_OHaVDRtV0ON2pcz1dUYC5Itg/viewform">Expert Eval</a></td>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfjNvzyo2LRpAvLfGpj6XmNI_OHaVDRtV0ON2pcz1dUYC5Itg/viewform">Expert Eval</a></td> -->
 </tr>
 </table>
 
 </div>
-</div> -->
+</div>
 
 
 
