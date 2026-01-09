@@ -211,7 +211,7 @@ Wei Liu, Zhongyu Niu, **Lang Gao**, Zhiying Deng, Jun Wang, Haozhao Wang, and Ru
 
 ## 👨‍🔧 Applications
 
-**Linger: Intelligent Resume Parsing System**  <img src="https://img.shields.io/badge/Applications-2025-gray?labelColor=blue" alt="Applications 2024">
+**Linger: Intelligent Resume Parsing System**  <img src="https://img.shields.io/badge/Applications-2023-gray?labelColor=blue" alt="Applications 2023">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/resume.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
