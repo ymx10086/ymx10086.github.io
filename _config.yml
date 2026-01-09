@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lang Gao's Personal Website"
+title                    : "Mingxin Yang's Personal Website"
 description              : ""
 repository               : ""
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lang Gao"
-  avatar           : "files/profile.jpg"
-  bio              : "MBZUAI"
-  location         : "Masdar City, Abu Dhabi, UAE"
+  name             : "Mingxin Yang"
+  avatar           : "files/profile.png"
+  bio              : "Peking University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=LzKcdl8AAAAJ&hl=en"
-  email            : "Lang.Gao@mbzuai.ac.ae"
+  googlescholar    : "https://scholar.google.com/citations?user=iaBA__IAAAAJ"
+  email            : "mxyang25@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HeartyHaven"
+  github           : "ymx10086"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : #"yue-huang-696816265"# e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0009-0004-8742-7708
+  orcid            : https://orcid.org/0009-0004-0700-8299
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
