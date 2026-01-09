@@ -1,0 +1,201 @@
+% --- LaTeX CV Template - Single Column Design ---
+\documentclass[letterpaper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+
+% Package imports - optimized
+\usepackage[T1]{fontenc}
+\usepackage{setspace, graphicx, fancyhdr, ifthen, enumitem}
+\usepackage{libertine}
+\usepackage{microtype}
+\usepackage{ragged2e}
+
+\usepackage[%
+  style=numeric,
+  maxbibnames=99,
+  maxcitenames=99,
+  backend=biber,
+  sorting=ydnt,
+  giveninits=false, % 显示全名
+  uniquename=full, % 姓名唯一性以全名区分
+  dashed=false,
+  labelnumber=true
+]{biblatex}
+
+\addbibresource{cv.bib}
+
+\DeclareFieldFormat[article,inproceedings]{title}{\textbf{#1}}
+\DeclareFieldFormat{volume}{\textbf{#1}}
+\DeclareFieldFormat{pages}{#1}
+\DeclareFieldFormat{doi}{\href{https://doi.org/#1}{doi.org/#1}}
+\DeclareFieldFormat{note}{\textbf{(#1)}}
+\DeclareFieldFormat{journaltitle}{\textit{#1}}
+\DeclareFieldFormat{booktitle}{\textit{#1}}
+
+\AtEveryBibitem{%
+  \clearfield{month}%
+  \clearfield{day}%
+  \clearfield{language}%
+  \clearfield{number}%
+}
+
+% 加粗特定作者的名字（修改下面的名字以匹配你的名字）
+% 注意：如果自动匹配不工作，你可能需要在 .bib 文件中手动标记作者
+\newcommand{\myauthorlast}{Gao}
+\newcommand{\myauthorfirst}{Lang}
+
+% 加粗特定作者的姓氏
+\renewcommand*{\mkbibnamefamily}[1]{%
+  \ifdefstring{#1}{\myauthorlast}{%
+    \textbf{#1}%
+  }{%
+    #1%
+  }%
+}
+
+% 加粗特定作者的名字
+\renewcommand*{\mkbibnamegiven}[1]{%
+  \ifdefstring{#1}{\myauthorfirst}{%
+    \textbf{#1}%
+  }{%
+    #1%
+  }%
+}
+
+\DeclareBibliographyDriver{article}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  [\printfield{labelnumber}] \printfield{title}%
+  \setunit{\addspace}%
+  \printfield{note}%
+  \newline
+  \printnames{author}%
+  \newline
+  \hfill\printfield{journaltitle}%
+  \ifbool{bbx:volume}{%
+    \setunit{\addcomma\space}%
+    \printfield{volume}%
+  }{}%
+  \ifbool{bbx:pages}{%
+    \setunit{\addcomma\space}%
+    \printfield{pages}%
+  }{}%
+  \setunit{\addcomma\space}%
+  \printfield{year}%
+  \usebibmacro{finentry}%
+}
+
+\DeclareBibliographyDriver{inproceedings}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  [\printfield{labelnumber}] \printfield{title}%
+  \setunit{\addspace}%
+  \printfield{note}%
+  \newline
+  \printnames{author}%
+  \newline
+  \hfill\printfield{booktitle}%
+  \setunit{\addcomma\space}%
+  \printfield{year}%
+  \usebibmacro{finentry}%
+}
+
+% Page layout settings
+\usepackage[left=0.7in, right=0.7in, bottom=0.7in, top=0.7in]{geometry}
+
+% Set line spacing
+\renewcommand{\baselinestretch}{1.15}
+
+% Set link colors - place this before loading hyperref
+\usepackage[dvipsnames]{xcolor}
+
+% Load hyperref after other packages
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=RoyalBlue,
+  urlcolor=RoyalBlue,
+  citecolor=RoyalBlue
+}
+
+% Set font to Libertine, including math support
+\usepackage[libertine]{newtxmath}
+
+% Remove page numbering
+\pagenumbering{gobble}
+
+% Custom section formatting
+\usepackage{titlesec}
+\titleformat{\section}
+  {\color{RoyalBlue}\Large\bfseries}
+  {}
+  {0em}
+  {}
+\titlespacing{\section}{0pt}{12pt}{6pt}
+
+% Custom commands for better spacing
+\newcommand{\sepspace}{\vspace{0.5em}}
+\newcommand{\makesectionheading}[2]{%
+  \section*{#1\hfill\normalsize#2}%
+}
+
+% Command for education entry with score on separate line
+\newcommand{\educationentry}[4]{%
+  \textbf{#1} \hfill #2\\%
+  #3 \hfill #4%
+}
+
+\begin{document}
+\setlength{\parindent}{0pt}
+
+% Name and contact information
+\begin{center}
+    \Huge\textbf{Lang Gao}\\[0.5em]
+    \normalsize
+    \href{mailto:Lang.Gao@mbzuai.ac.ae}{Lang.Gao@mbzuai.ac.ae}\\[0.2em]
+    \href{https://scholar.google.com}{Google Scholar} \quad
+    \href{https://github.com}{GitHub} \quad
+    \href{https://yourwebsite.example.com}{Personal Website}
+\end{center}
+
+\vspace{0.5em}
+
+\section*{Education}
+
+\educationentry{Mohamed bin Zayed University of Artificial Intelligence}{Aug 2024 - Jun 2026}{MSc in Natural Language Processing}{Average score: 95.2/100}
+
+\sepspace
+
+\educationentry{Xi'an Jiaotong University (C9 League)}{Sep 2019 - Jul 2023}{BEng in Computer Science and Technology}{Average score: 87.6/100}
+
+\section*{Research Interests}
+
+\begin{itemize}[leftmargin=*,itemsep=0.1em]
+    \item Research on \textbf{awakening} the knowledge and behaviors in LLMs using interpretability-driven post-training methods to identify internal mechanisms of LLMs and enable user-aligned activation of specific model capabilities.
+    \item Current work on personalized AI systems that fulfill human emotional needs and evolve with their users.
+\end{itemize}
+
+\hfill\href{https://yourwebsite.example.com}{Personal Website}
+
+\section*{Publications}
+
+\hfill\href{https://scholar.google.com}{Google Scholar}
+
+\vspace{0.3em}
+
+\textit{First-/Co-first-author papers:}
+
+\vspace{0.3em}
+
+\textit{Selected Co-authored papers:}
+
+% Print bibliography using biblatex
+% Note: You may need to customize the bibliography format to match the reference image
+% The reference image shows numbered entries [1], [2], etc. with bold titles,
+% bold author names (for yourself), and right-aligned venue information
+\begingroup
+\setlength{\parskip}{0pt}
+\nocite{*}
+\printbibliography[heading=none]
+\endgroup
+
+\end{document}
