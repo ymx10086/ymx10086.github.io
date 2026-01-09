@@ -213,7 +213,7 @@ Wei Liu, Zhongyu Niu, **Lang Gao**, Zhiying Deng, Jun Wang, Haozhao Wang, and Ru
 
 **Linger: Intelligent Resume Parsing System**  <img src="https://img.shields.io/badge/Applications-2025-gray?labelColor=blue" alt="Applications 2024">
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='files/medtrinity.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='files/resume.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Yifei Li, **Mingxin Yang**, Min Yang, Siyu Jiang
