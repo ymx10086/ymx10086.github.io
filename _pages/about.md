@@ -124,8 +124,8 @@ Yunpeng Tan, Qingyang Li, **Mingxin Yang**, Xinggong Zhang
 <table style="border: 1px solid #ddd; border-collapse: collapse; margin-top: 10px;">
 <tr>
 <td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://dl.acm.org/doi/full/10.1145/3735358.3737756">Paper</a></td>
-<!-- <td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/jugechengzi/Rationalization-A2I">Code</a></td>
-</tr> -->
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/jugechengzi/Rationalization-A2I">Code</a></td>
+</tr>
 </table>
 
 </div>
