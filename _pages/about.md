@@ -23,20 +23,22 @@ redirect_from:
 
 **Hi 👋, I'm Lang (/læŋ/).**
 
-I am currently a first-year PhD student at [MBZUAI](https://mbzuai.ac.ae/), a great place for research. I'm fortunate to be supervised by [Dr. Xiuying Chen](https://iriscxy.github.io/), an outstanding rising star and a truly supportive mentor. I am also co-supervised by the excellent professor [Prof. Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/).
-
-
+I am currently a first-year PhD student based in **Beijing**, currently affiliated with **Peking University**. I'm fortunate to be supervised by [Dr. Xinggong Zhang](https://www.wict.pku.edu.cn/NetVideo/).I received my bachelor's degree from **Huazhong University of Science and Technology (HUST)** that built a solid foundation in computer science and research, and have previously conducted research collaborations with researchers from the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)** and **Harbin Institute of Technology (Shenzhen)**.
 
 
 # 💡 Interests
-- **Mechanistic Interpretability (MI)**: To know the mechanistic reasons why foundation models can do something and cannot do something, and how to make them do something by utilizing its nature, with the goal of making them more interpretable, controllable, and trustworthy.
+- **AI Security**
+  - Security, privacy, and alignment issues of large language models
+  - Jailbreak, robustness, and misuse analysis
 
-  > (Recently, I am particularly into the geometrical features of latent spaces and ways to escape from Linear Representation Hypothesis.)
-  
-- **Reliable Application of AI (secondary)**: Explore the reliable application of machine learning models.
-  
+- **Network Security**
+  - Malicious traffic detection
+  - Encrypted traffic classification and website fingerprinting
 
-> I'm always happy to connect with anyone interested in interpretability. It's a field full of different sparks, and I'm eager to learn from new perspectives. Feel free to reach out!
+- **AI Agents**
+  More recently, I have been exploring **AI agents**, focusing on autonomous and tool-augmented LLM-based systems. I am interested in how agentic workflows and multi-agent collaboration can enable LLMs to solve complex, real-world tasks in a secure and controllable manner.
+
+> I am always happy to connect with people who share interests in AI, security, and related research topics. I believe this is a field driven by diverse ideas and perspectives, and I am eager to learn through discussions and collaborations. Feel free to reach out.
 
 
 
@@ -63,11 +65,11 @@ I am currently a first-year PhD student at [MBZUAI](https://mbzuai.ac.ae/), a gr
 
 # 📝 Selected Publications 
 
-Please refer to my [Google Scholar](https://scholar.google.com/citations?user=LzKcdl8AAAAJ&hl=en) for full list of publications.
+Please refer to my [Google Scholar](https://scholar.google.com/citations?user=iaBA__IAAAAJ) for full list of publications.
 
-## 🧑‍🔬 Mechanistic Interpretability
+## 🧑‍🔬 AI for Security
 
-**When Personalization Tricks Detectors: The Feature-Inversion Trap in Machine-Generated Text Detection**  <img src="https://img.shields.io/badge/Preprint-gray" alt="Preprint">
+**Vuldetectbench: Evaluating the deep capability of vulnerability detection with large language models**  <img src="https://img.shields.io/badge/Preprint-gray" alt="Preprint">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/stylo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -88,17 +90,17 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=Lz
 
 **Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs**  <img src="https://img.shields.io/badge/Preprint-gray" alt="Preprint">
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='files/biaslens.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='files/PipeLineFinal_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Lang Gao**, Kaiyang Wan, Wei Liu, Chenxi Wang, Zirui Song, Zixiang Xu, Yanbo Wang, Veselin Stoyanov, and Xiuying Chen
+Yu Liu, Lang Gao, **Mingxin Yang**, Yu Xie, Ping Chen, Xiaojin Zhang, Wei Chen
 
-*"BiasLens is a new interpretable method that directly examines concept representations inside LLMs to detect hidden biases, without relying on any human-labeled data."* 
+*"A new benchmark, VulDetectBench, evaluates LLMs on program vulnerability detection and shows strong performance on coarse-grained tasks but poor capability in fine-grained vulnerability analysis."* 
 
 <table style="border: 1px solid #ddd; border-collapse: collapse; margin-top: 10px;">
 <tr>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://arxiv.org/abs/2505.15524">Paper</a></td>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://anonymous.4open.science/r/BiasLens-1ECE/">Code</a></td>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://arxiv.org/abs/2406.07595">Paper</a></td>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/Sweetaroo/VulDetectBench">Code</a></td>
 </tr>
 </table>
 
@@ -106,7 +108,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=Lz
 </div>
 
 
-**Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models**  <img src="https://img.shields.io/badge/ACL-2025-gray?labelColor=blue" alt="ACL 2025">
+<!-- **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models**  <img src="https://img.shields.io/badge/ACL-2025-gray?labelColor=blue" alt="ACL 2025">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/abd-pre.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -123,9 +125,9 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=Lz
 </table>
 
 </div>
-</div>
+</div> -->
 
-**A Fano-Style Accuracy Upper Bound for LLM Single-Pass Reasoning in Multi-Hop QA**  <img src="https://img.shields.io/badge/Preprint-gray" alt="Preprint">
+<!-- **A Fano-Style Accuracy Upper Bound for LLM Single-Pass Reasoning in Multi-Hop QA**  <img src="https://img.shields.io/badge/Preprint-gray" alt="Preprint">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/fano.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -143,9 +145,9 @@ Kaiyang Wan, **Lang Gao**, Honglin Mu, Preslav Nakov, Yuxia Wang, Xiuying Chen
 </table>
 
 </div>
-</div>
+</div> -->
 
-**Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets**  <img src="https://img.shields.io/badge/ICML-2025-gray?labelColor=blue" alt="ICML 2025">
+<!-- **Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets**  <img src="https://img.shields.io/badge/ICML-2025-gray?labelColor=blue" alt="ICML 2025">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/a2i.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -162,11 +164,11 @@ Wei Liu, Zhongyu Niu, **Lang Gao**, Zhiying Deng, Jun Wang, Haozhao Wang, and Ru
 </table>
 
 </div>
-</div>
+</div> -->
 
 ## 👨‍🔧 Applications
 
-**MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine**  <img src="https://img.shields.io/badge/ICLR-2025-gray?labelColor=blue" alt="ICLR 2025">
+<!-- **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine**  <img src="https://img.shields.io/badge/ICLR-2025-gray?labelColor=blue" alt="ICLR 2025">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/medtrinity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -188,11 +190,11 @@ Yunfei Xie\*, Ce Zhou\*, **Lang Gao\***, Juncheng Wu*, Xianhang Li, Hong-Yu Zhou
 </table>
 
 </div>
-</div>
+</div> -->
 
 
 
-**DyFlow: Dynamic Workflow Framework for Agentic Reasoning**  <img src="https://img.shields.io/badge/NeurIPS-2025-gray?labelColor=blue" alt="NeurIPS 2025">
+<!-- **DyFlow: Dynamic Workflow Framework for Agentic Reasoning**  <img src="https://img.shields.io/badge/NeurIPS-2025-gray?labelColor=blue" alt="NeurIPS 2025">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/dyflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -209,12 +211,12 @@ Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, **Lang Gao**, Chenx
 </table>
 
 </div>
-</div>
+</div> -->
 
 
 
 
-
+<!-- 
 [//]: # (# ⚙️ Project)
 
 [//]: # ()
@@ -243,21 +245,21 @@ Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, **Lang Gao**, Chenx
 
 [//]: # (- Research on trustworthy issues of LLM)
 
-[//]: # (- Improvements to the [trustllm toolkit]&#40;https://github.com/HowieHwong/TrustLLM&#41;)
+[//]: # (- Improvements to the [trustllm toolkit]&#40;https://github.com/HowieHwong/TrustLLM&#41;) -->
 
 # 🧐 Service
-- 2025, Reviewer: ACL, EMNLP, NLPCC.
+<!-- - 2024, Reviewer: ACL, EMNLP, NLPCC. -->
 
 
 # 💼 Experiences
-- \[10 / 2024 - 07 / 2025      \] <img src='files/mbzuai.jpeg' style='width: 1.2em;'> MBZUAI, Research Intern (Supervisor: [Dr. Xiuying Chen](https://iriscxy.github.io/), topic: Mechanistic Interpretability of LLMs)
+<!-- - \[10 / 2024 - 07 / 2025      \] <img src='files/mbzuai.jpeg' style='width: 1.2em;'> MBZUAI, Research Intern (Supervisor: [Dr. Xiuying Chen](https://iriscxy.github.io/), topic: Mechanistic Interpretability of LLMs)
 - \[07 / 2024 - 10 / 2024\] <img src='files/Notre_Dame.png' style='width: 1.2em;'> University of Notre Dame, Research Intern (Supervisor: [Prof. Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/), topic: LLMs for Bayesian Optimization)
 - \[01 / 2024 - 06 / 2024\] <img src='files/ucsc.png' style='width: 1.2em;'> UC Santa Cruz, Research Intern (Supervisor: [Dr. Yuyin Zhou](https://yuyinzhou.github.io/), topic: Visual-Language models for healthcare)
-- \[10 / 2023 - 12 / 2023\] <img src='files/hust.png' style='width: 1.2em;'> HUST (Supervisor: [Prof. Ruixuan Li](https://faculty.hust.edu.cn/rxli/zh_CN/index/1784505/list/index.htm), topic: Interpretable deep learning frameworks)
+- \[10 / 2023 - 12 / 2023\] <img src='files/hust.png' style='width: 1.2em;'> HUST (Supervisor: [Prof. Ruixuan Li](https://faculty.hust.edu.cn/rxli/zh_CN/index/1784505/list/index.htm), topic: Interpretable deep learning frameworks) -->
 > 💬 I am deeply grateful to all the mentors and collaborators who have guided and supported me along the way. Your encouragement, trust, and inspiration have made all the difference in my journey.
 
 # 📖 Educations
-  *08 / 2025 - Now* : Ph.D. student, <img src='files/mbzuai.jpeg' style='width: 1.2em;'> Mohamed bin Zayed University of Artificial Intelligence 
+  *08 / 2025 - Now* : Ph.D. student, <img src='files/mbzuai.jpeg' style='width: 1.2em;'> Peking University
 
   *09 / 2021 - 07 / 2025* : B.E., <img src='files/hust.png' style='width: 1.2em;'> Huazhong University of Science and Technology
 
@@ -271,7 +273,7 @@ Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, **Lang Gao**, Chenx
 
 
 # 🧩Miscellaneous
-## 📚 Resources
+<!-- ## 📚 Resources
 ### Insights
 - Book: Interpretability in Deep Learning \[[Link](files/XAI.pdf)\]
 - Book: Interpretable Machine Learning \[[Link](https://christophm.github.io/interpretable-ml-book/index.html)\]
@@ -289,7 +291,7 @@ Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, **Lang Gao**, Chenx
 - \[01/24\] \[Chinese\] EMNLP2020 Tutorial Notes (Topic: Explainable AI). \[[Link](https://k034sybliz3.feishu.cn/wiki/Mo2xwR6B4iDV7nk4CZ5clwymnze)\] 
 
 ## Other Stuff
-I also like photography. Sometimes I take good photos by accident. So I might upload a few here someday, along with some unnecessary commentary, but feel free to pretend you're looking forward to it.🙃
+I also like photography. Sometimes I take good photos by accident. So I might upload a few here someday, along with some unnecessary commentary, but feel free to pretend you're looking forward to it.🙃 -->
 
 ---
 
