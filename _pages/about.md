@@ -74,7 +74,8 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=ia
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/PipeLineFinal_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Yu Liu, Lang Gao, **Mingxin Yang**, Yu Xie, Ping Chen, Xiaojin Zhang, Wei Chen
+Yu Liu\*, Lang Gao\*, **Mingxin Yang\***, Yu Xie, Ping Chen, Xiaojin Zhang, Wei Chen
+(\*: Joint first authors)
 
 *"A new benchmark, VulDetectBench, evaluates LLMs on program vulnerability detection and shows strong performance on coarse-grained tasks but poor capability in fine-grained vulnerability analysis."* 
 
@@ -82,6 +83,48 @@ Yu Liu, Lang Gao, **Mingxin Yang**, Yu Xie, Ping Chen, Xiaojin Zhang, Wei Chen
 <tr>
 <td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://arxiv.org/abs/2406.07595">Paper</a></td>
 <td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/Sweetaroo/VulDetectBench">Code</a></td>
+</tr>
+</table>
+
+</div>
+</div>
+
+## AI Safety
+
+**Unveiling the vulnerability of private fine-tuning in split-based frameworks for large language models: A bidirectionally enhanced attack**  <img src="https://img.shields.io/badge/CCS-2024-gray?labelColor=blue" alt="CCS 2025">
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='files/bisr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Guanzhong Chen, Zhenghan Qin, **Mingxin Yang**, Yajie Zhou, Tao Fan, Tianyu Du, Zenglin Xu
+
+*"Expose privacy vulnerabilities in split learning for LLM fine-tuning and introduce BiSR, a powerful data reconstruction attack that can recover private training data even under existing defenses."* 
+
+<table style="border: 1px solid #ddd; border-collapse: collapse; margin-top: 10px;">
+<tr>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://dl.acm.org/doi/abs/10.1145/3658644.3690295">Paper</a></td>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/StupidTrees/SplitLLM">Code</a></td>
+</tr>
+</table>
+
+</div>
+</div>
+
+## 🧑‍🔬 Network Security
+
+**Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets**  <img src="https://img.shields.io/badge/ICML-2025-gray?labelColor=blue" alt="ICML 2025">
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='files/a2i.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Wei Liu, Zhongyu Niu, **Lang Gao**, Zhiying Deng, Jun Wang, Haozhao Wang, and Ruixuan Li
+
+*"An interpretable, causal learning paradigm that simultaneously avoids spurious correlations in data and traditional self-interpretable models."*
+
+<table style="border: 1px solid #ddd; border-collapse: collapse; margin-top: 10px;">
+<tr>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://icml.cc/virtual/2025/poster/44947">Paper</a></td>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/jugechengzi/Rationalization-A2I">Code</a></td>
 </tr>
 </table>
 
@@ -249,7 +292,7 @@ Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, **Lang Gao**, Chenx
 
 # 🧐 Service
 <!-- - 2024, Reviewer: ACL, EMNLP, NLPCC. -->
-
+- 2025, Open Source Summer Campus Ambassador
 
 # 💼 Experiences
 <!-- - \[10 / 2024 - 07 / 2025      \] <img src='files/mbzuai.jpeg' style='width: 1.2em;'> MBZUAI, Research Intern (Supervisor: [Dr. Xiuying Chen](https://iriscxy.github.io/), topic: Mechanistic Interpretability of LLMs)
@@ -259,7 +302,7 @@ Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, **Lang Gao**, Chenx
 > 💬 I am deeply grateful to all the mentors and collaborators who have guided and supported me along the way. Your encouragement, trust, and inspiration have made all the difference in my journey.
 
 # 📖 Educations
-  *08 / 2025 - Now* : Ph.D. student, <img src='files/mbzuai.jpeg' style='width: 1.2em;'> Peking University
+  *08 / 2025 - Now* : Ph.D. student, <img src='files/pku.png' style='width: 1.2em;'> Peking University
 
   *09 / 2021 - 07 / 2025* : B.E., <img src='files/hust.png' style='width: 1.2em;'> Huazhong University of Science and Technology
 
