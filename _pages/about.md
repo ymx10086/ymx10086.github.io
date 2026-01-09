@@ -296,8 +296,8 @@ Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, **Lang Gao**, Chenx
 # 💼 Experiences
 - \[10 / 2022 - 07 / 2024      \] <img src='files/hust.png' style='width: 1.2em;'> HUST (Supervisor: [Prof. Kun He](http://faculty.hust.edu.cn/hekun/zh_CN/index.htm), topic: Jailbreak)
 - \[07 / 2023 - 01 / 2024\] <img src='files/hust.png' style='width: 1.2em;'> HUST (Supervisor: [Prof. Wei Chen](http://faculty.hust.edu.cn/CHENWEI/zh_CN/), topic: Code Detection)
-- \[12 / 2023 - 12 / 2024\] <img src='files/hit.png' style='width: 1.2em;'> Harbin Institute of Technology, Shenzhen (Supervisor: [Guanzhong Chen](https://stupidtrees.github.io), topic: Split-Learning in Large Language Model)
-- \[03 / 2024 - 06 / 2024\] <img src='files/cas.png' style='width: 1.2em;'> Institute of Computing Technology, Chinese Academy of Sciences (Supervisor: [Prof. Fei Sun](https://scholar.google.com/citations?hl=zh-CN&user=OlRxBhcAAAAJ&view_op=list_works&sortby=pubdate), topic: AI Safety)
+- \[12 / 2023 - 12 / 2024\] <img src='files/hit.jpg' style='width: 1.2em;'> Harbin Institute of Technology, Shenzhen (Supervisor: [Guanzhong Chen](https://stupidtrees.github.io), topic: Split-Learning in Large Language Model)
+- \[03 / 2024 - 06 / 2024\] <img src='files/CAS.png' style='width: 1.2em;'> Institute of Computing Technology, Chinese Academy of Sciences (Supervisor: [Prof. Fei Sun](https://scholar.google.com/citations?hl=zh-CN&user=OlRxBhcAAAAJ&view_op=list_works&sortby=pubdate), topic: AI Safety)
 > 💬 I am deeply grateful to all the mentors and collaborators who have guided and supported me along the way. Your encouragement, trust, and inspiration have made all the difference in my journey.
 
 # 📖 Educations
