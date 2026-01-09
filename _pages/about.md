@@ -91,7 +91,7 @@ Yu Liu\*, Lang Gao\*, **Mingxin Yang\***, Yu Xie, Ping Chen, Xiaojin Zhang, Wei 
 
 ## AI Safety
 
-**Unveiling the vulnerability of private fine-tuning in split-based frameworks for large language models: A bidirectionally enhanced attack**  <img src="https://img.shields.io/badge/CCS-2024-gray?labelColor=blue" alt="CCS 2025">
+**Unveiling the vulnerability of private fine-tuning in split-based frameworks for large language models: A bidirectionally enhanced attack**  <img src="https://img.shields.io/badge/CCS-2024-gray?labelColor=blue" alt="CCS 2024">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/bisr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,20 +112,20 @@ Guanzhong Chen, Zhenghan Qin, **Mingxin Yang**, Yajie Zhou, Tao Fan, Tianyu Du, 
 
 ## 🧑‍🔬 Network Security
 
-**Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets**  <img src="https://img.shields.io/badge/ICML-2025-gray?labelColor=blue" alt="ICML 2025">
+**Graph-Based Encrypted Malicious Traffic Detection Under Flow Distribution Drift With Flow Sampling**  <img src="https://img.shields.io/badge/APNet-2025-gray?labelColor=blue" alt="APNet 2025">
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='files/a2i.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='files/gbt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Wei Liu, Zhongyu Niu, **Lang Gao**, Zhiying Deng, Jun Wang, Haozhao Wang, and Ruixuan Li
+Yunpeng Tan, Qingyang Li, **Mingxin Yang**, Xinggong Zhang
 
-*"An interpretable, causal learning paradigm that simultaneously avoids spurious correlations in data and traditional self-interpretable models."*
+*"Propose a flow-sampling-based graph construction method to mitigate flow distribution drift in encrypted traffic detection, significantly improving GNN accuracy and efficiency."*
 
 <table style="border: 1px solid #ddd; border-collapse: collapse; margin-top: 10px;">
 <tr>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://icml.cc/virtual/2025/poster/44947">Paper</a></td>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/jugechengzi/Rationalization-A2I">Code</a></td>
-</tr>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://dl.acm.org/doi/full/10.1145/3735358.3737756">Paper</a></td>
+<!-- <td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/jugechengzi/Rationalization-A2I">Code</a></td>
+</tr> -->
 </table>
 
 </div>
