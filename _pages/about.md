@@ -42,7 +42,11 @@ I am currently a first-year PhD student based in **Beijing**, currently affiliat
 
 # ✈️ News
 
-- [2025.09]: Enrolled at Peking University and began my Ph.D. studies.
+- **2025.09.12**: Attended the 3rd CCF [ChinaNet 2025](https://ccf.org.cn/chinanet2025) conference in Shenyang, China.
+- **2025.09**: Enrolled at Peking University and began my Ph.D. studies.
+- **2025.08.07**: Participated in [APNet 2025](https://conferences.sigcomm.org/events/apnet2025/index.php), held in Shanghai, China. Thanks to Yunpeng Tan.
+- **2025.06**: Graduated from Huazhong University of Science and Technology — a truly wonderful journey.
+
 
 # 📝 Selected Publications 
 
@@ -319,7 +323,9 @@ I also like photography. Sometimes I take good photos by accident. So I might up
 ---
 
 <div style="text-align: center;">
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=bdc1c4&w=600&t=n&d=RJ-9BpR3nPPhm7slE3OgXRPbI71Yo8jKNdXiKoeSQUw&co=f3eee8&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Tg3SiKAGF46et_FfkQy3ii4G1Ya7tPmIu9EFd7auDJs&cl=ffffff&w=a"></script>
 </div>
 
-
+<!-- 
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=bdc1c4&w=600&t=n&d=RJ-9BpR3nPPhm7slE3OgXRPbI71Yo8jKNdXiKoeSQUw&co=f3eee8&ct=808080&cmo=3acc3a&cmn=ff5353'></script> -->
