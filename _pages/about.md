@@ -40,28 +40,9 @@ I am currently a first-year PhD student based in **Beijing**, currently affiliat
 
 > I am always happy to connect with people who share interests in AI, security, and related research topics. I believe this is a field driven by diverse ideas and perspectives, and I am eager to learn through discussions and collaborations. Feel free to reach out.
 
+# ✈️ News
 
-
-<!-- ### Proficiencies
-      
-  **GPA:4.28/5.00** (or 3.70/4.00 according to [WES](https://www.wes.org/))
-
-  |Course|Result|
-  |:---:|:---:|
-  |Calculus|97|
-  |Software Engineering|97|
-  |Algorithmic Design & Analysis|97|
-  |Advanced Programming Language|94|
-  |Computer Vision|94|
-  |Principles of Imperative Computation|94|
-  |Operating System|91|
-  |Machine Learning|91|
-  |...|...|
--->
-
-<!-- # ⚙️ Skills
-- Deep learning frameworks like Transformers, PyTorch, etc.
-- Mechanistic Interpretability toolkits: NNsight, TransformerLens, SAELens. -->
+- [2025.09]: Enrolled at Peking University and began my Ph.D. studies.
 
 # 📝 Selected Publications 
 
