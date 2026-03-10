@@ -116,24 +116,23 @@ Yunpeng Tan, Qingyang Li, **Mingxin Yang**, Xinggong Zhang
 </div>
 </div>
 
-<!-- **Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs**  <img src="https://img.shields.io/badge/Preprint-gray" alt="Preprint">
+**MalMoE: Mixture-of-Experts Enhanced Encrypted Malicious Traffic Detection Under Graph Drift**  <img src="https://img.shields.io/badge/INFOCOM-2026-gray?labelColor=blue" alt="INFOCOM 2026">
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='files/PipeLineFinal_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='files/moe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Yu Liu, Lang Gao, **Mingxin Yang**, Yu Xie, Ping Chen, Xiaojin Zhang, Wei Chen
+Yunpeng Tan, Qingyang Li, **Mingxin Yang**, Yannan Hu, Lei Zhang, Xinggong Zhang
 
-*"A new benchmark, VulDetectBench, evaluates LLMs on program vulnerability detection and shows strong performance on coarse-grained tasks but poor capability in fine-grained vulnerability analysis."* 
+*"MalMoE is a graph-assisted encrypted traffic detection system that uses Mixture of Experts to adapt to graph drift and improve malicious traffic detection in dynamic network environments."* 
 
 <table style="border: 1px solid #ddd; border-collapse: collapse; margin-top: 10px;">
 <tr>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://arxiv.org/abs/2406.07595">Paper</a></td>
-<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://github.com/Sweetaroo/VulDetectBench">Code</a></td>
+<td style="border: 1px solid #ddd; padding: 5px 10px;"><a href="https://arxiv.org/abs/2602.10157">Paper</a></td>
 </tr>
 </table>
 
 </div>
-</div> -->
+</div>
 
 
 <!-- **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models**  <img src="https://img.shields.io/badge/ACL-2025-gray?labelColor=blue" alt="ACL 2025">
