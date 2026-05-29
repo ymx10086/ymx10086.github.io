@@ -97,7 +97,7 @@ Guanzhong Chen, Zhenghan Qin, **Mingxin Yang**, Yajie Zhou, Tao Fan, Tianyu Du, 
 
 ## 🧑‍🔬 Network Security
 
-**Graph-Based Encrypted Malicious Traffic Detection Under Flow Distribution Drift With Flow Sampling**  <img src="https://img.shields.io/badge/APNet-2025-gray?labelColor=blue" alt="APNet 2025">
+<!-- **Graph-Based Encrypted Malicious Traffic Detection Under Flow Distribution Drift With Flow Sampling**  <img src="https://img.shields.io/badge/APNet-2025-gray?labelColor=blue" alt="APNet 2025">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/gbt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -114,7 +114,7 @@ Yunpeng Tan, Qingyang Li, **Mingxin Yang**, Xinggong Zhang
 </table>
 
 </div>
-</div>
+</div> -->
 
 **MalMoE: Mixture-of-Experts Enhanced Encrypted Malicious Traffic Detection Under Graph Drift**  <img src="https://img.shields.io/badge/INFOCOM-2026-gray?labelColor=blue" alt="INFOCOM 2026">
 
